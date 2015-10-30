@@ -1,0 +1,17 @@
+we have to make a website based on flower catalog
+-------------------------------------------------
+the requirements are:-
+	
+	1) page layout
+		i>	head
+
+			a)website logo
+			b)heading
+
+		ii> body
+
+			a)starting page with heading "flower catalog"
+			b)all the flower's image will appear in front
+			c)create some link that gives information of that flower
+			d)create guest book that helps user to a lot
+			e)watering Jar image, which when clicked will hide for a second
